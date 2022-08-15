@@ -55,6 +55,4 @@ $method = $_SERVER['REQUEST_METHOD'];
 
  
 $mysqli->close();
-	
-//fuente https://www.w3schools.com/php/php_mysql_insert.asp
 ?>
